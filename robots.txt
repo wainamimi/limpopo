@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.limpopo.h0tels.shop/sitemap.xml
